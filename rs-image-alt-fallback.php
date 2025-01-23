@@ -2,7 +2,7 @@
 /*
 Plugin Name: RS Image Alt Fallback
 Description: When using the default Image block, if the block is missing alt text, it will load alt text from the media attachment instead.
-Version: 1.0.0
+Version: 1.0.1
 Author: Radley Sustaire
 Author URI: https://radleysustaire.com
 GitHub Plugin URI: https://github.com/RadGH/RS-Image-Alt-Fallback

@@ -19,5 +19,8 @@ There are no settings available. Simply activate and the plugin will automatical
 
 ## Changelog
 
+### 1.0.1
+* Added Git Updater support
+
 ### 1.0.0
 * Initial release
