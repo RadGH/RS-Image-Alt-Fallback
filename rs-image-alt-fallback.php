@@ -5,8 +5,8 @@ Description: When using the default Image block, if the block is missing alt tex
 Version: 1.0.0
 Author: Radley Sustaire
 Author URI: https://radleysustaire.com
+GitHub Plugin URI: https://github.com/RadGH/RS-Image-Alt-Fallback
 */
-
 
 /**
  * When rendering the core image block, change the alt text attribute
